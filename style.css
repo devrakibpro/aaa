@@ -4,7 +4,7 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-/* +++++++++++++++++++Custom Colors+++++++++++++++ */
+/* =====Custom Colors===== */
 .background-sky-blue {
     background-color: #289bde;
 }
@@ -33,7 +33,7 @@ body {
     color: #4a4a4a;
 }
 
-/* +++++++++++++++Slide Images Darkness+++++++++ */
+/* =====Slide Images Darkness===== */
 .carousel-item img {
     filter: brightness(40%);
 }
@@ -55,7 +55,7 @@ body {
     color: #289bde;
 }
 
-/* +++++++++++++++Carousel Responsive+++++++++++ */
+/* =====Carousel Responsive===== */
 @media (max-width: 576px) {
     .header-carousel-caption {
         top: 0%;
